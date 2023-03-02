@@ -1,5 +1,5 @@
 # Transfer Learning and Fine Tuning
-In this repo, I will mainly focus on transfer learning and fine tuning of already existing deep learning model on different type and number of classes data.
+In this repo, I will mainly focus on end-to-end transfer learning and fine tuning of already existing deep learning model on different type and number of classes data.
 
 ## Models available in this repo
 
