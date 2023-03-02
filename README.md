@@ -3,7 +3,7 @@ In this repo, I will mainly focus on end-to-end transfer learning and fine tunin
 
 ## Models available in this repo
 
-*[Transfer learning on EuroSat data with MobileNet V2 model without data augmentation](https://github.com/dineshgulati933/Transfer-learning/blob/main/EuroSat_MobileNet_d004.ipynb)
++ [Transfer learning on EuroSat data with MobileNet V2 model without data augmentation](https://github.com/dineshgulati933/Transfer-learning/blob/main/EuroSat_MobileNet_d004.ipynb)
 
-*[Transfer learning on EuroSat data with MobileNet V2 model with data augmentation](https://github.com/dineshgulati933/Transfer-learning/blob/main/EuroSat_MobileNet_Aug.ipynb)
++ [Transfer learning on EuroSat data with MobileNet V2 model with data augmentation](https://github.com/dineshgulati933/Transfer-learning/blob/main/EuroSat_MobileNet_Aug.ipynb)
 
